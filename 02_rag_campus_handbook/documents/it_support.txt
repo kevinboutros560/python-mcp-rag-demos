@@ -1,0 +1,3 @@
+To reset your campus account password, select Forgot Password on the student portal sign-in page. Enter your student email address to receive a reset link.
+
+Connect to the Campus-Student Wi-Fi network and sign in with your student email address and campus account password. For connection help, visit the IT desk in Room 204 of the Student Center.
